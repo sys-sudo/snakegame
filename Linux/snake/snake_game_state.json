@@ -1,0 +1,1 @@
+{"snake": [[16, 42], [16, 41], [16, 40]], "direction": "RIGHT", "score": 0, "food": [30, 79], "speed": 0.15, "game_over": false, "paused": false, "start_time": 1746958085.8309464, "walls": false, "particles": [], "score_saved": false}
