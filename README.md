@@ -33,7 +33,7 @@ A simple yet engaging terminal-based Snake game.
   ./snake         # Start the game
   ```
 
-> **Note**: Ensure that you have Python 3.13 installed if you plan to run the game from source.
+> **Note**: Report any issue to my discord https://discord.gg/r2FwjZEzJC.
 
 ---
 
