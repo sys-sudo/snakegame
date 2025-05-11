@@ -18,7 +18,7 @@ A simple yet engaging terminal-based Snake game.
 1. Visit the [Snake Game GitHub Releases](https://github.com/sys-sudo/snakegame/releases) page.
 2. Choose your platform:
    - **Windows**: Select the `snake.exe` file.
-   - **Linux**: Download the binary file appropriate for your architecture.
+   - **Linux**: Select the `snake` file.
 
 ### 2. Running the Game
 
