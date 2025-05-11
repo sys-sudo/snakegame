@@ -39,9 +39,9 @@ A simple yet engaging terminal-based Snake game.
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+This project is licensed under the [MIT License](https://github.com/sys-sudo/snakegame/blob/main/LICENSE).
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/sys-sudo/snakegame/blob/main/LICENSE)
 
 ---
 
