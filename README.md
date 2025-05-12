@@ -1,43 +1,44 @@
+# 🐍 Snake Game Terminal
 
-# Snake Game Terminal
+A simple yet addictive terminal-based Snake game.
 
-A simple yet engaging terminal-based Snake game.
+## 🎮 Features
 
-## Features
+- **Save Game**: Save your current game progress to continue later.
+- **Load Game**: Resume from a previously saved state.
+- **Autosave**: Game progress is saved automatically at regular intervals.
+- **Leaderboard**: Track and display high scores.
+- **High Score Display**: View the top scores achieved.
 
-- **Save State**: Saves the current game state for later resume.
-- **Load State**: Load previously saved game states.
-- **Autosave**: Automatically saves the game progress at regular intervals.
-- **Leaderboard**: Tracks high scores.
-- **High Score**: Displays the highest scores achieved by players.
+---
 
-## Installation
+## ⚙️ Installation
 
 ### 1. Download
 
 1. Visit the [Snake Game GitHub Releases](https://github.com/sys-sudo/snakegame/releases) page.
-2. Choose your platform:
-   - **Windows**: Select the `snake.exe` file.
-   - **Linux**: Select the `snake` file.
+2. Choose the file for your platform:
+   - **Windows**: Download `snake.exe`.
+   - **Linux**: Download the `snake` binary.
 
-### 2. Running the Game
+### 2. Run the Game
 
-- **Windows**: Double-click the `snake.exe` file or run via the command prompt:
+- **Windows**: Double-click `snake.exe` or run via Command Prompt:
   ```bash
   snake.exe
   ```
 
-- **Linux**: Open a terminal, navigate to the download location, and run:
+- **Linux**: Open a terminal, navigate to the download directory, and run:
   ```bash
   chmod +x snake  # Make the binary executable
   ./snake         # Start the game
   ```
 
-> **Note**: Report any issue to my discord https://discord.gg/r2FwjZEzJC.
+> 💬 **Report bugs or suggestions via Discord**: [https://discord.gg/r2FwjZEzJC](https://discord.gg/r2FwjZEzJC)
 
 ---
 
-## License
+## 📄 License
 
 This project is licensed under the [MIT License](https://github.com/sys-sudo/snakegame/blob/main/LICENSE).
 
@@ -45,22 +46,28 @@ This project is licensed under the [MIT License](https://github.com/sys-sudo/sna
 
 ---
 
-## Information
+## 🖥️ Build Information
 
 ### Windows
 
-| Built From  | Type     | Description                |
-| :---------  | :------- | :------------------------- |
-| `Python 3.13` | `.exe`  | Compiled using PyInstaller |
+| Built From     | File Type | Description                     |
+| :------------- | :-------- | :------------------------------ |
+| Python 3.13    | `.exe`    | Compiled using PyInstaller      |
 
 ### Linux
 
-| Built From  | Type     | Description                |
-| :---------  | :------- | :------------------------- |
-| `Python 3.13` | `binary`| Compiled using PyInstaller |
+| Built From     | File Type | Description                     |
+| :------------- | :-------- | :------------------------------ |
+| Python 3.13    | `binary`  | Compiled using PyInstaller      |
 
 ---
-see the version information below, there will be version information
-## Authors
+
+## 🔢 Version
+
+See the [official releases](https://github.com/sys-sudo/snakegame/releases) page for the latest version info.
+
+---
+
+## 👤 Author
 
 - [@sys-sudo](https://www.github.com/sys-sudo)
